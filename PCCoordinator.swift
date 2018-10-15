@@ -1,6 +1,5 @@
 //
 //  PCCoordinator.swift
-//  PaintingGame
 //
 //  Created by Su PingChen on 2018/10/13.
 //  Copyright © 2018 SPC. All rights reserved.
